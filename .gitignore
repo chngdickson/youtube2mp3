@@ -17,3 +17,4 @@ build/yt2mp3/localpycs/pyimod03_ctypes.pyc
 build/yt2mp3/localpycs/pyimod04_pywin32.pyc
 build/yt2mp3/localpycs/struct.pyc
 yt2mp3.spec
+/build
